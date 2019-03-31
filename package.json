@@ -1,0 +1,13 @@
+{
+  "name": "@pixelprodev/3dcart-template-scripts",
+  "version": "1.0.0",
+  "description": "Script helpers for the react 3dcart template engine.",
+  "bin": {
+    "scripts": "./index.js"
+  },
+  "author": "James LeClair",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^2.19.0"
+  }
+}
